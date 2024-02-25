@@ -14,7 +14,7 @@ Welcome to the Spam Classification notebook! This repository houses an in-depth 
 
 1. **Clone Repository:**
    ```bash
-   git clone https://github.com/yourusername/spam-classification.git
+   gh repo clone DeepNets-US/Custom-Spam-Classifier
    ```
 
 2. **Run Notebook:**
