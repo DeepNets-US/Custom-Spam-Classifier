@@ -6,7 +6,7 @@ Welcome to the Spam Classification notebook! This repository houses an in-depth 
 
 ## Contents
 
-1. **Notebook:** Explore the comprehensive Jupyter notebook ([Link to Notebook](#)) detailing the step-by-step process.
+1. **Notebook:** Explore the comprehensive [Jupyter notebook](https://github.com/DeepNets-US/Custom-Spam-Classifier/blob/main/spam-classification-tf-acc-97.ipynb) detailing the step-by-step process.
 2. **Dataset:** Find the dataset used for training and evaluation.
 3. **Code:** Access Python scripts for key functions and model training.
 
